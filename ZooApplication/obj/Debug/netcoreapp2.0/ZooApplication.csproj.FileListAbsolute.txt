@@ -1,0 +1,11 @@
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\bin\Debug\netcoreapp2.0\ZooApplication.deps.json
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\bin\Debug\netcoreapp2.0\ZooApplication.runtimeconfig.json
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\bin\Debug\netcoreapp2.0\ZooApplication.runtimeconfig.dev.json
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\bin\Debug\netcoreapp2.0\ZooApplication.dll
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\bin\Debug\netcoreapp2.0\ZooApplication.pdb
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.csprojAssemblyReference.cache
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.AssemblyInfoInputs.cache
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.AssemblyInfo.cs
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.dll
+C:\Users\Sadeg\source\repos\ZooApplication\ZooApplication\obj\Debug\netcoreapp2.0\ZooApplication.pdb
